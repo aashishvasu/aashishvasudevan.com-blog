@@ -10,8 +10,7 @@ taxonomy:
 ---
 
 This website has been 4 years in the making. A long 4 years filled with dead ends and procrastination.
-===
-This website has been 4 years in the making. A long 4 years filled with dead ends and procrastination.
+
 ### [Wordpress absolutely sucks](https://hackernoon.com/this-is-why-wordpress-sucks-and-you-should-probably-stop-using-it-v697y30v7)
 For some reason, even with all the one click install solutions, auto-management plugins which add bloatware, one thing never changes.
 
