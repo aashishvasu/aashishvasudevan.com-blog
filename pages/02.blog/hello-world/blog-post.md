@@ -10,7 +10,7 @@ taxonomy:
 ---
 
 This website has been 4 years in the making. A long 4 years filled with dead ends and procrastination. 
-## Wordpress absolutely sucks
+### Wordpress absolutely sucks
 For some reason, even with all the one click install solutions, auto-management plugins which add bloatware, one thing never changes.
 
 **Wordpress just sucks**.
