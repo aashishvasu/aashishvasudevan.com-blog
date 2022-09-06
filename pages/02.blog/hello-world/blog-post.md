@@ -24,7 +24,7 @@ So obviously, I wanted to be able to switch out of WordPress. The only requireme
 * The website should act as a short portfolio
 * The website should house a simple blogging interface.
 
-### I'm the smartest man in the world.
+### [I'm the smartest man in the world.](https://blog.airbrake.io/hs-fs/hubfs/Imported_Blog_Media/supported_features-1.png?width=324&height=326&name=supported_features-1.png)
 The hubris of a programmer knows no bounds.
 
 Around this time I was looking at some c# code which would parse [html](https://en.wikipedia.org/wiki/HTML) and construct a website based on the html being presented to it, and I thought _"Wouldn't it be great if I could write something so that I could just host my website content as plain text, and a converter would make nice HTML pages out of it?"_
@@ -39,7 +39,7 @@ With all this knowledge, I first tried my hand at a static site generator (I use
 
 So because I'm not an absolute Neanderthal, I chose to try out [Grav](https://getgrav.org/), a flat-file CMS. I loved (still do) Grav. The amount of stuff you can do with a flat file CMS is incredible.
 
-### Always do things the hard way, even if easier solutions exist
+### [Always do things the hard way, even if easier solutions exist](https://xkcd.com/378/)
 The thing is, Grav is amazing for creating simple sites with a lot of static and some dynamic content. And most themes you find for it reflect that. I had to find a theme I liked not just for the landing page, but something that would work well for putting up blog posts. Maybe not to the degree of a full blog site, but something that I could call my own. The only thing that I found that fit the bill was [Webfolio](https://github.com/jasonccox/grav-theme-webfolio), and I decided to use it.
 
 ... but I wasn't super happy with the blog page, and the fact that it had no links to other posts, and no tags. And I didn't quite like how it looked either, but it had all the functionality I wanted.
@@ -51,7 +51,7 @@ I decided that I was going to learn the basics of html, twig, CSS and the Grav f
 ### In Finé
 I've given up on this website THREE SEPARATE TIMES since I decided on Grav. I was just not able to get shit working. In the interim, I had a weird hacky solution where my website would go to a Grav landing page, but the `Blog` link would redirect to a 🤢🤢_WordPress blog_🤢🤢. At that point my blog was clearly only up for the sake of completeness (sentimentality maybe?), because I never put up a post on it since probably 2015. Why bother, since I was gonna be taking it offline anyway? But I never did.
 
-Then a couple of months ago, WordPress did as WordPress does, and my blog just stopped working. All the content is in there, but there's some errors on the site. That was the kick to my ass that I needed to just finish this blog part of the Grav site, no matter what.
+Then a couple of months ago, WordPress did as WordPress does, and my blog just stopped working. All the content is in there, but there's some errors on the site because of which it just doesn't show up. That was the kick to my ass that I needed to just finish this blog part of the Grav site, no matter what.
 
 I feel I have finally reached that goal and my [old blog](https://archive.aashishvasudevan.com) can finally be retired.
 (Don't actually click that link, it doesn't really work.)
