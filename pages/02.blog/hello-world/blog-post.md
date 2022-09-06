@@ -49,7 +49,7 @@ So.
 I decided that I was going to learn the basics of html, twig, CSS and the Grav framework to edit the theme, add support for a few plugins that would make adding a sidebar on blog posts and possibly comments in the future. I didn't even know that something like [Sass](https://sass-lang.com/dart-sass) existed before this. And this theme uses Sass EXTENSIVELY. Shit's wild man.
 
 ### In Finé
-I've given up on this website THREE SEPARATE TIMES since I decided on Grav. I was just not able to get shit working. In the interim, I had a weird hacky solution where my website would go to a Grav landing page, but the `Blog` link would redirect to a _🤢🤢WordPress blog🤢🤢_. At that point my blog was clearly only up for the sake of completeness (sentimentality maybe?), because I never put up a post on it since probably 2015. Why bother, since I was gonna be taking it offline anyway? But I never did.
+I've given up on this website THREE SEPARATE TIMES since I decided on Grav. I was just not able to get shit working. In the interim, I had a weird hacky solution where my website would go to a Grav landing page, but the `Blog` link would redirect to a 🤢🤢_WordPress blog_🤢🤢. At that point my blog was clearly only up for the sake of completeness (sentimentality maybe?), because I never put up a post on it since probably 2015. Why bother, since I was gonna be taking it offline anyway? But I never did.
 
 Then a couple of months ago, WordPress did as WordPress does, and my blog just stopped working. All the content is in there, but there's some errors on the site. That was the kick to my ass that I needed to just finish this blog part of the Grav site, no matter what.
 
