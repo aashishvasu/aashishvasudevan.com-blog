@@ -1,11 +1,12 @@
 ---
 title: Intro
-body_classes: modular
+class: bg-alt
 use_footer_links: true
-img_style: square
+image: BaldGuy.jpg
+img_alt: 'Its me!'
+img_style: circle
 center_content: false
-content:
-    pagination: true
 ---
 
-Test
+# Hi, I'm Aashish.
+#### I make games and interactive projects.
