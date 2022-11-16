@@ -1,6 +1,10 @@
 ---
 title: Home
 body_classes: 'title-center title-h1h2'
+modules_in_menu: true
+single_page_menu: false
+content:
+    pagination: true
 ---
 
 # Say Hello to Grav!
