@@ -4,7 +4,7 @@ content:
     items: '@self.children'
     order:
         by: header.date
-        dir: desc
+        dir: asc
     pagination: true
 ---
 
