@@ -3,7 +3,7 @@ title: Blog
 content:
     items: '@self.children'
     order:
-        by: header.date
+        by: date
         dir: desc
     pagination: true
 ---
