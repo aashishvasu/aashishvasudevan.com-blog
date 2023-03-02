@@ -2,6 +2,9 @@
 title: 'The Walls Keep Going Up'
 content:
     pagination: true
+taxonomy:
+    category:
+        - Blog
 date: '01-03-2023 22:33'
 ---
 
