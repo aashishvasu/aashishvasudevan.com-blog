@@ -6,6 +6,7 @@ taxonomy:
     category:
         - Blog
 date: '01-03-2023 22:33'
+published: false
 ---
 
 I remember on a particularly slow day at the office a few years ago, some random guy just decided to show up to our workplace. It was really strange because there were only five of us anyway, and no one was expecting any visitors. Turned out that this guy had come to apply for a job, and he had come to hand in his resume.
