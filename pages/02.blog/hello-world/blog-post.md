@@ -8,6 +8,7 @@ taxonomy:
     tag:
         - Misc.
 date: '02-08-2022 22:44'
+published: false
 ---
 
 **This website has been 4 years in the making. A long 4 years filled with dead ends and procrastination. And because it took me 4 years, I think it gives me free license to use up some of your time if you do choose to read further.**
