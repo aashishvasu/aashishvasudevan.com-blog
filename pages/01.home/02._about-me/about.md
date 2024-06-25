@@ -4,7 +4,7 @@ details:
     -
         title: 'Game Development'
         icon: 'fas fa-gamepad'
-        content: 'Having worked on various game engines such as Unreal Engine 4, Unity3D and Godot, I have a keen sense of understanding for developing and maintaining performant and reusable code for game projects, both large and small.'
+        content: 'Having worked on various game engines such as Unreal Engine, Unity3D and Godot, I have a keen sense of understanding for developing and maintaining performant and reusable code for game projects, both large and small.'
     -
         title: 'Realtime Rendering'
         icon: 'fab fa-creative-commons-remix'
@@ -13,6 +13,8 @@ details:
         title: 'Hardware Integration'
         icon: 'fas fa-microchip'
         content: 'Having worked with a multitude of hardware offerings from DIY microcontrollers to proprietary hardware, I bring a strong foundation in integrating hardware with realtime applications for special venue projects (think reactive lights, kinect based mocap, midi/OSC signal routing, etc).'
+content:
+    pagination: true
 ---
 
 ## About Me
