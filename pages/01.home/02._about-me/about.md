@@ -8,7 +8,7 @@ details:
     -
         title: 'Realtime Rendering'
         icon: 'fab fa-creative-commons-remix'
-        content: 'I have experience in setting up Unreal Engine 4 and Unity3D tooling for rendering VFX and full animations for previs and production shots.'
+        content: 'I have experience in setting up Unreal Engine and Unity3D tooling for rendering VFX and full animations for previs, production, and virtual production.'
     -
         title: 'Hardware Integration'
         icon: 'fas fa-microchip'
