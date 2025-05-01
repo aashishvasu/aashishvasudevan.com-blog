@@ -21,7 +21,7 @@ projects:
         link: 'https://www.ted.com/talks/sneha_khanwalkar_hear_the_music_in_my_head?language=en'
     -
         title: 'FAB Marketplace page'
-        image: null
+        image: fabLogo.jpg
         description: 'My store page on FAB, the Epic Games marketplace for Unreal Engine related plugins and assets.'
         link: 'https://www.fab.com/sellers/Granular%20Studios'
 content:
