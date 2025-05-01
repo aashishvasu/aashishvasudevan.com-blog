@@ -22,7 +22,7 @@ projects:
     -
         title: 'FAB Marketplace page'
         image: null
-        description: 'My store page for Unreal Engine related plugins on the FAB marketplace'
+        description: 'My store page on FAB, the Epic Games marketplace for Unreal Engine related plugins and assets.'
         link: 'https://www.fab.com/sellers/Granular%20Studios'
 content:
     pagination: true
