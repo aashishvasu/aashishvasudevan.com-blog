@@ -15,15 +15,15 @@ projects:
         description: 'Amusement park ride made in Unreal Engine 4, integrated with proprietary hardware to connect to the ride systems. This was really fun to work on!'
         link: 'https://www.youtube.com/watch?v=JHRXx0tJCFQ'
     -
-        title: 'Ghostbusters - Amusement Park Ride'
-        image: Ghostbusters.jpg
-        description: 'Amusement park ride made in Unity3D using a proprietary hardware interface to control the guns in the shooting experience.'
-        link: 'https://www.youtube.com/watch?v=kAIm9-3Gv70'
-    -
         title: 'TED Talk: Hear the music in my head'
         image: 'Annotation 2020-06-18 215434.jpg'
         description: 'An interesting project using a Microsoft Kinect to detect body motion, and send midi signals to play live music.'
         link: 'https://www.ted.com/talks/sneha_khanwalkar_hear_the_music_in_my_head?language=en'
+    -
+        title: 'Ghostbusters - Amusement Park Ride'
+        image: Ghostbusters.jpg
+        description: 'Amusement park ride made in Unity3D using a proprietary hardware interface to control the guns in the shooting experience.'
+        link: 'https://www.youtube.com/watch?v=kAIm9-3Gv70'
 content:
     pagination: true
 ---
