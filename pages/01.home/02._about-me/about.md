@@ -18,4 +18,4 @@ content:
 ---
 
 ## About Me
-I have always been curious about how things work and what goes into making things work. I try to take that mentality to every project I work on, big or small. When I'm not working at [Green Rain Studios](https://www.greenrain.io), you can find me either tinkering with electronics, code or making music. Sometimes tinkering with electronics driven by code which make music too!
+I have always been curious about how things work and what goes into making things work. I try to take that mentality to every project I work on, big or small. When I'm not working at [Qualcomm](https://www.qualcomm.com), you can find me either tinkering with electronics, code or making music. Sometimes tinkering with electronics driven by code which make music too!
