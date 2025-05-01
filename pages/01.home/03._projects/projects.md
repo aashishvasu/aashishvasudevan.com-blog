@@ -5,6 +5,11 @@ class: bg-alt
 show_more_txt: 'Show more'
 projects:
     -
+        title: 'FAB Marketplace page'
+        image: fabLogo.jpg
+        description: 'My store page on FAB, the Epic Games marketplace for Unreal Engine related plugins and assets.'
+        link: 'https://www.fab.com/sellers/Granular%20Studios'
+    -
         title: 'Night at the Museum: Midnight Mayhem - Amusement Park Ride'
         image: natm.jpg
         description: 'Amusement park ride made in Unreal Engine 4, integrated with proprietary hardware to connect to the ride systems. This was really fun to work on!'
@@ -19,11 +24,6 @@ projects:
         image: 'Annotation 2020-06-18 215434.jpg'
         description: 'An interesting project using a Microsoft Kinect to detect body motion, and send midi signals to play live music.'
         link: 'https://www.ted.com/talks/sneha_khanwalkar_hear_the_music_in_my_head?language=en'
-    -
-        title: 'FAB Marketplace page'
-        image: fabLogo.jpg
-        description: 'My store page on FAB, the Epic Games marketplace for Unreal Engine related plugins and assets.'
-        link: 'https://www.fab.com/sellers/Granular%20Studios'
 content:
     pagination: true
 ---
